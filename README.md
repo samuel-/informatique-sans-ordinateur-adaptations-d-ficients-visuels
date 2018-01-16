@@ -12,3 +12,6 @@ L’idée était de réfléchir à comment adapter ces jeux pour les déficients
 Ces deux outils ont certaines cartes en commun (chaque carte a deux faces, ce qui correspond à deux états).
 
 Après différents essais, hop !
+
+http://lespetitsdebrouillards-aura.org/event/soiree-3n-informatique-debranchee-et-deficience-visuelle-1/
+http://lespetitsdebrouillards-aura.org/event/soiree-3n-informatique-debranchee-et-deficience-visuelle-2/
