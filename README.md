@@ -1,4 +1,4 @@
-# informatique-sans-ordinateur-adaptations-déficients-visuels
+# Informatique sans ordinateur — adaptations pour déficients visuels
 
 L’informatique débranchée ?
 
