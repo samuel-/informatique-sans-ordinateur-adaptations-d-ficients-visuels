@@ -14,6 +14,7 @@ Ces deux outils ont certaines cartes en commun (chaque carte a deux faces, ce qu
 
 Après différents essais, hop !
 
+
 ## Réflexions et choix
 
 Nous avons travaillé pendant plusieurs séances avec quelques membres des [petits débrouillards](http://lespetitsdebrouillards-aura.org/) de Clermont-Ferrand, et avec des membres du [groupe de recherche Informatique sans Ordinateur de l'IREM de Clermont-Ferrand](http://www.irem.univ-bpclermont.fr/Informatique-sans-Ordinateur), avec quelques personnes en situation de déficience visuelle, afin de prendre en compte à la fois les aspects pédagogiques et d'accessibilité du matériel proposé.
@@ -43,3 +44,6 @@ Le plateau de jeu utilisé pour l'activité tour de cartes :
 Le plateau de jeu utilisé pour l'activité codage d'images :
 
 ![alt text](images/code-image-1.jpg) ![alt text](images/code-image-2.jpg)
+=======
+http://lespetitsdebrouillards-aura.org/event/soiree-3n-informatique-debranchee-et-deficience-visuelle-1/
+http://lespetitsdebrouillards-aura.org/event/soiree-3n-informatique-debranchee-et-deficience-visuelle-2/
