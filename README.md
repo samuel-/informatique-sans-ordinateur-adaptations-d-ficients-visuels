@@ -44,6 +44,11 @@ Le plateau de jeu utilisé pour l'activité tour de cartes :
 Le plateau de jeu utilisé pour l'activité codage d'images :
 
 ![alt text](images/code-image-1.jpg) ![alt text](images/code-image-2.jpg)
-=======
-http://lespetitsdebrouillards-aura.org/event/soiree-3n-informatique-debranchee-et-deficience-visuelle-1/
-http://lespetitsdebrouillards-aura.org/event/soiree-3n-informatique-debranchee-et-deficience-visuelle-2/
+
+
+## Historique des réunions
+
+En plus des réunions régulières de fabrication à SIGMake, le groupe de travail informel autour de ce projet s'est réuni dans les locaux de l'association les petits débrouillards:
+
+* [Annonce de la première réunion](http://lespetitsdebrouillards-aura.org/event/soiree-3n-informatique-debranchee-et-deficience-visuelle-1/)
+* [Annonce de la seconde réunion](http://lespetitsdebrouillards-aura.org/event/soiree-3n-informatique-debranchee-et-deficience-visuelle-2/)
